@@ -10,7 +10,9 @@ all rounders: Who can score runs in less balls and take wickets with giving less
 specialist bowlers: Who specialize in bowling only
 
 ### Add on maybe :
+    Create some dimension tables for batter and bowler or maybe a team?
 
+    generic function self made to unnest any level of json
     Fielder concept
     The data was ready made (json)
     Try Scrapping
