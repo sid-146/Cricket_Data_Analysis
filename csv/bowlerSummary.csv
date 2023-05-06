@@ -1,12 +1,501 @@
-match,bowlingTeam,bowlerName,overs,maiden,runs,wickets,economy,0s,4s,6s,wides,noBalls,scorecard
-Namibia Vs Sri Lanka,Sri Lanka,Maheesh Theekshana,4,0,23,1,5 75,7,0,0,2,0,T20I   1823
-Namibia Vs Sri Lanka,Sri Lanka,Dushmantha Chameera,4,0,39,1,9 75,6,3,1,2,0,T20I   1823
-Namibia Vs Sri Lanka,Sri Lanka,Pramod Madushan,4,0,37,2,9 25,6,3,1,0,0,T20I   1823
-Namibia Vs Sri Lanka,Sri Lanka,Chamika Karunaratne,4,0,36,1,9 00,7,3,1,1,0,T20I   1823
-Namibia Vs Sri Lanka,Sri Lanka,Wanindu Hasaranga de Silva,4,0,27,1,6 75,8,1,1,0,0,T20I   1823
-Namibia Vs Sri Lanka,Namibia,Gerhard Erasmus,1,0,8,0,8 00,1,1,0,0,0,T20I   1823
-Namibia Vs Sri Lanka,Namibia,David Wiese,4,0,16,2,4 00,13,1,0,0,0,T20I   1823
-Namibia Vs Sri Lanka,Namibia,Bernard Scholtz,4,0,18,2,4 50,10,1,0,0,0,T20I   1823
-Namibia Vs Sri Lanka,Namibia,Ben Shikongo,3,1,22,2,7 33,6,3,0,0,0,T20I   1823
-Namibia Vs Sri Lanka,Namibia,JJ Smit,3,0,16,1,5 33,7,0,0,1,0,T20I   1823
-Namibia Vs Sri Lanka,Namibia,Jan Frylinck,4,0,26,2,6 50,10,0,2,1,0,T20I   1823
+0s,4s,6s,bowlerName,bowlingTeam,economy,maiden,match,noBalls,overs,runs,wickets,wides,scorecard
+7,0,0,Maheesh Theekshana,Sri Lanka,5 75,0,Namibia Vs Sri Lanka,0,4,23,1,2,T20I   1823
+6,3,1,Dushmantha Chameera,Sri Lanka,9 75,0,Namibia Vs Sri Lanka,0,4,39,1,2,T20I   1823
+6,3,1,Pramod Madushan,Sri Lanka,9 25,0,Namibia Vs Sri Lanka,0,4,37,2,0,T20I   1823
+7,3,1,Chamika Karunaratne,Sri Lanka,9 00,0,Namibia Vs Sri Lanka,0,4,36,1,1,T20I   1823
+8,1,1,Wanindu Hasaranga de Silva,Sri Lanka,6 75,0,Namibia Vs Sri Lanka,0,4,27,1,0,T20I   1823
+1,1,0,Gerhard Erasmus,Namibia,8 00,0,Namibia Vs Sri Lanka,0,1,8,0,0,T20I   1823
+13,1,0,David Wiese,Namibia,4 00,0,Namibia Vs Sri Lanka,0,4,16,2,0,T20I   1823
+10,1,0,Bernard Scholtz,Namibia,4 50,0,Namibia Vs Sri Lanka,0,4,18,2,0,T20I   1823
+6,3,0,Ben Shikongo,Namibia,7 33,1,Namibia Vs Sri Lanka,0,3,22,2,0,T20I   1823
+7,0,0,JJ Smit,Namibia,5 33,0,Namibia Vs Sri Lanka,0,3,16,1,1,T20I   1823
+10,0,2,Jan Frylinck,Namibia,6 50,0,Namibia Vs Sri Lanka,0,4,26,2,1,T20I   1823
+18,0,0,Fred Klaassen,Netherlands,3 25,0,U A E  Vs Netherlands,0,4,13,2,3,T20I   1825
+11,0,0,Tim Pringle,Netherlands,3 25,0,U A E  Vs Netherlands,0,4,13,1,0,T20I   1825
+5,0,2,Logan van Beek,Netherlands,9 50,0,U A E  Vs Netherlands,0,2,19,0,1,T20I   1825
+9,2,0,Bas de Leede,Netherlands,6 33,0,U A E  Vs Netherlands,0,3,19,3,2,T20I   1825
+11,1,0,Paul van Meekeren,Netherlands,5 25,0,U A E  Vs Netherlands,0,4,21,0,0,T20I   1825
+7,0,1,Roelof van der Merwe,Netherlands,6 33,0,U A E  Vs Netherlands,0,3,19,1,0,T20I   1825
+10,2,0,Junaid Siddique,U A E ,6 00,0,U A E  Vs Netherlands,0,4,24,3,1,T20I   1825
+4,0,1,Basil Hameed,U A E ,7 00,0,U A E  Vs Netherlands,0,1,7,1,0,T20I   1825
+8,1,0,Aayan Afzal Khan,U A E ,5 00,0,U A E  Vs Netherlands,0,3,15,1,0,T20I   1825
+11,2,0,Karthik Meiyappan,U A E ,5 50,0,U A E  Vs Netherlands,0,4,22,1,0,T20I   1825
+14,0,0,Zahoor Khan,U A E ,2 75,0,U A E  Vs Netherlands,0,4,11,1,0,T20I   1825
+2,2,0,Zawar Farid,U A E ,8 47,0,U A E  Vs Netherlands,0,2 5,24,0,0,T20I   1825
+1,0,0,Kashif Daud,U A E ,5 00,0,U A E  Vs Netherlands,0,1,5,0,0,T20I   1825
+5,5,0,Kyle Mayers,West Indies,12 00,0,Scotland Vs West Indies,0,2,24,0,2,T20I   1826
+8,2,1,Akeal Hosein,West Indies,7 75,0,Scotland Vs West Indies,0,4,31,0,0,T20I   1826
+9,3,0,Alzarri Joseph,West Indies,7 00,0,Scotland Vs West Indies,0,4,28,2,2,T20I   1826
+6,4,0,Obed McCoy,West Indies,8 33,0,Scotland Vs West Indies,0,3,25,0,0,T20I   1826
+8,1,0,Jason Holder,West Indies,4 66,0,Scotland Vs West Indies,0,3,14,2,0,T20I   1826
+6,3,0,Odean Smith,West Indies,7 75,0,Scotland Vs West Indies,0,4,31,1,1,T20I   1826
+16,1,0,Mark Watt,Scotland,3 00,0,Scotland Vs West Indies,0,4,12,3,1,T20I   1826
+10,4,1,Brad Wheal,Scotland,8 00,0,Scotland Vs West Indies,0,4,32,2,0,T20I   1826
+8,4,2,Josh Davey,Scotland,11 33,0,Scotland Vs West Indies,0,3,34,1,1,T20I   1826
+7,2,0,Safyaan Sharif,Scotland,6 57,0,Scotland Vs West Indies,0,3 3,23,1,2,T20I   1826
+11,0,0,Michael Leask,Scotland,3 75,0,Scotland Vs West Indies,0,4,15,2,1,T20I   1826
+11,3,0,Josh Little,Ireland,6 00,0,Zimbabwe Vs Ireland,0,4,24,3,0,T20I   1828
+6,3,1,Mark Adair,Ireland,9 75,0,Zimbabwe Vs Ireland,0,4,39,2,2,T20I   1828
+11,2,0,Barry McCarthy,Ireland,6 00,0,Zimbabwe Vs Ireland,0,4,24,0,2,T20I   1828
+6,2,2,Curtis Campher,Ireland,9 66,0,Zimbabwe Vs Ireland,0,3,29,0,0,T20I   1828
+5,2,2,Simi Singh,Ireland,10 33,0,Zimbabwe Vs Ireland,0,3,31,2,1,T20I   1828
+4,2,1,Gareth Delany,Ireland,10 50,0,Zimbabwe Vs Ireland,0,2,21,0,1,T20I   1828
+13,3,0,Richard Ngarava,Zimbabwe,5 50,0,Zimbabwe Vs Ireland,0,4,22,2,0,T20I   1828
+13,1,1,Tendai Chatara,Zimbabwe,5 50,0,Zimbabwe Vs Ireland,0,4,22,2,2,T20I   1828
+14,0,2,Blessing Muzarabani,Zimbabwe,5 75,0,Zimbabwe Vs Ireland,1,4,23,3,0,T20I   1828
+1,4,0,Luke Jongwe,Zimbabwe,12 00,0,Zimbabwe Vs Ireland,0,2,24,0,0,T20I   1828
+3,0,0,Sean Williams,Zimbabwe,6 66,0,Zimbabwe Vs Ireland,0,3,20,1,0,T20I   1828
+8,1,1,Sikandar Raza,Zimbabwe,7 33,0,Zimbabwe Vs Ireland,0,3,22,1,1,T20I   1828
+11,1,0,Fred Klaassen,Netherlands,5 00,0,Namibia Vs Netherlands,0,3,15,0,0,T20I   1830
+8,0,0,Tim Pringle,Netherlands,5 00,0,Namibia Vs Netherlands,0,3,15,1,0,T20I   1830
+6,1,0,Bas de Leede,Netherlands,6 00,0,Namibia Vs Netherlands,0,3,18,2,0,T20I   1830
+8,2,0,Colin Ackermann,Netherlands,5 66,0,Namibia Vs Netherlands,0,3,17,1,0,T20I   1830
+11,1,0,Paul van Meekeren,Netherlands,4 50,0,Namibia Vs Netherlands,0,4,18,1,1,T20I   1830
+4,1,1,Timm van der Gugten,Netherlands,9 66,0,Namibia Vs Netherlands,0,3,29,0,2,T20I   1830
+1,0,0,Roelof van der Merwe,Netherlands,6 00,0,Namibia Vs Netherlands,0,1,6,1,1,T20I   1830
+10,0,1,Bernard Scholtz,Namibia,5 25,0,Namibia Vs Netherlands,0,4,21,1,0,T20I   1830
+4,3,0,David Wiese,Namibia,8 80,0,Namibia Vs Netherlands,0,2 3,22,0,0,T20I   1830
+8,0,0,Gerhard Erasmus,Namibia,4 33,0,Namibia Vs Netherlands,0,3,13,0,1,T20I   1830
+1,0,2,Ben Shikongo,Namibia,18 00,0,Namibia Vs Netherlands,0,1,18,0,1,T20I   1830
+9,2,0,JJ Smit,Namibia,6 00,0,Namibia Vs Netherlands,0,4,24,2,0,T20I   1830
+11,1,0,Jan Frylinck,Namibia,4 00,1,Namibia Vs Netherlands,0,4,16,1,0,T20I   1830
+2,1,0,Jan Nicol Loftie Eaton,Namibia,8 00,0,Namibia Vs Netherlands,1,1,8,0,0,T20I   1830
+8,2,1,Junaid Siddique,U A E ,9 00,0,Sri Lanka Vs U A E ,0,4,36,0,2,T20I   1832
+0,2,0,Kashif Daud,U A E ,14 00,0,Sri Lanka Vs U A E ,0,1,14,0,0,T20I   1832
+10,3,0,Zahoor Khan,U A E ,6 50,0,Sri Lanka Vs U A E ,0,4,26,2,0,T20I   1832
+7,1,0,Aayan Afzal Khan,U A E ,5 33,0,Sri Lanka Vs U A E ,0,3,16,1,0,T20I   1832
+5,3,0,Aryan Lakra,U A E ,8 00,0,Sri Lanka Vs U A E ,0,3,24,1,0,T20I   1832
+12,0,1,Karthik Meiyappan,U A E ,4 75,0,Sri Lanka Vs U A E ,0,4,19,3,0,T20I   1832
+1,1,1,Basil Hameed,U A E ,13 00,0,Sri Lanka Vs U A E ,0,1,13,0,0,T20I   1832
+12,2,0,Pramod Madushan,Sri Lanka,4 66,0,Sri Lanka Vs U A E ,0,3,14,1,1,T20I   1832
+10,2,0,Maheesh Theekshana,Sri Lanka,4 73,0,Sri Lanka Vs U A E ,0,3 1,15,2,0,T20I   1832
+16,0,1,Dushmantha Chameera,Sri Lanka,3 91,0,Sri Lanka Vs U A E ,0,3 5,15,3,0,T20I   1832
+5,2,0,Chamika Karunaratne,Sri Lanka,7 00,0,Sri Lanka Vs U A E ,0,2,14,0,0,T20I   1832
+17,0,0,Wanindu Hasaranga de Silva,Sri Lanka,2 00,1,Sri Lanka Vs U A E ,0,4,8,3,0,T20I   1832
+3,0,0,Dasun Shanaka,Sri Lanka,6 00,0,Sri Lanka Vs U A E ,0,1 1,7,1,1,T20I   1832
+10,2,1,Josh Little,Ireland,7 50,0,Scotland Vs Ireland,0,4,30,1,1,T20I   1833
+12,2,0,Mark Adair,Ireland,5 75,0,Scotland Vs Ireland,0,4,23,1,2,T20I   1833
+4,6,3,Barry McCarthy,Ireland,14 75,0,Scotland Vs Ireland,1,4,59,0,1,T20I   1833
+3,2,1,Gareth Delany,Ireland,9 33,0,Scotland Vs Ireland,0,3,28,0,0,T20I   1833
+2,2,0,Simi Singh,Ireland,8 00,0,Scotland Vs Ireland,0,2,16,0,0,T20I   1833
+7,1,0,Curtis Campher,Ireland,4 50,0,Scotland Vs Ireland,0,2,9,2,0,T20I   1833
+1,1,0,George Dockrell,Ireland,9 00,0,Scotland Vs Ireland,0,1,9,0,0,T20I   1833
+10,2,1,Mark Watt,Scotland,9 75,0,Scotland Vs Ireland,0,4,39,1,2,T20I   1833
+11,2,1,Brad Wheal,Scotland,6 25,0,Scotland Vs Ireland,0,4,25,1,0,T20I   1833
+5,8,0,Josh Davey,Scotland,11 50,0,Scotland Vs Ireland,0,4,46,0,1,T20I   1833
+3,4,0,Safyaan Sharif,Scotland,10 66,0,Scotland Vs Ireland,0,3,32,1,1,T20I   1833
+1,0,1,Chris Greaves,Scotland,9 00,0,Scotland Vs Ireland,0,2,18,0,1,T20I   1833
+2,1,0,Michael Leask,Scotland,8 00,0,Scotland Vs Ireland,0,2,16,1,0,T20I   1833
+9,1,1,Richard Ngarava,Zimbabwe,6 66,0,West Indies Vs Zimbabwe,0,3,20,0,1,T20I   1834
+5,2,0,Tendai Chatara,Zimbabwe,7 33,0,West Indies Vs Zimbabwe,0,3,22,0,2,T20I   1834
+10,2,2,Blessing Muzarabani,Zimbabwe,9 50,0,West Indies Vs Zimbabwe,1,4,38,2,2,T20I   1834
+5,3,1,Ryan Burl,Zimbabwe,9 00,0,West Indies Vs Zimbabwe,0,3,27,0,0,T20I   1834
+7,0,0,Sikandar Raza,Zimbabwe,4 75,0,West Indies Vs Zimbabwe,0,4,19,3,0,T20I   1834
+7,1,0,Sean Williams,Zimbabwe,5 66,0,West Indies Vs Zimbabwe,1,3,17,1,0,T20I   1834
+3,3,0,Kyle Mayers,West Indies,17 00,0,West Indies Vs Zimbabwe,0,1,17,0,1,T20I   1834
+12,1,1,Akeal Hosein,West Indies,6 25,0,West Indies Vs Zimbabwe,1,4,25,1,1,T20I   1834
+16,1,1,Alzarri Joseph,West Indies,4 00,0,West Indies Vs Zimbabwe,0,4,16,4,0,T20I   1834
+9,3,0,Obed McCoy,West Indies,6 33,0,West Indies Vs Zimbabwe,0,3,19,1,0,T20I   1834
+12,1,0,Jason Holder,West Indies,3 60,0,West Indies Vs Zimbabwe,0,3 2,12,3,0,T20I   1834
+8,4,1,Odean Smith,West Indies,10 33,0,West Indies Vs Zimbabwe,1,3,31,1,1,T20I   1834
+9,1,2,Fred Klaassen,Netherlands,8 50,0,Sri Lanka Vs Netherlands,0,4,34,1,0,T20I   1835
+8,0,2,Tim Pringle,Netherlands,7 33,0,Sri Lanka Vs Netherlands,0,3,22,0,0,T20I   1835
+10,2,0,Roelof van der Merwe,Netherlands,5 33,0,Sri Lanka Vs Netherlands,0,3,16,0,0,T20I   1835
+11,3,0,Paul van Meekeren,Netherlands,6 25,0,Sri Lanka Vs Netherlands,0,4,25,2,1,T20I   1835
+5,2,2,Bas de Leede,Netherlands,10 33,0,Sri Lanka Vs Netherlands,0,3,31,2,0,T20I   1835
+3,2,1,Timm van der Gugten,Netherlands,10 33,0,Sri Lanka Vs Netherlands,0,3,31,1,0,T20I   1835
+1,0,0,Dhananjaya de Silva,Sri Lanka,5 00,0,Sri Lanka Vs Netherlands,0,1,5,0,0,T20I   1835
+14,2,1,Lahiru Kumara,Sri Lanka,7 00,0,Sri Lanka Vs Netherlands,0,4,28,1,1,T20I   1835
+11,4,1,Binura Fernando,Sri Lanka,8 25,0,Sri Lanka Vs Netherlands,0,4,33,1,1,T20I   1835
+12,1,2,Maheesh Theekshana,Sri Lanka,8 00,0,Sri Lanka Vs Netherlands,1,4,32,2,2,T20I   1835
+11,3,0,Wanindu Hasaranga de Silva,Sri Lanka,7 00,0,Sri Lanka Vs Netherlands,0,4,28,3,0,T20I   1835
+6,1,0,Chamika Karunaratne,Sri Lanka,5 50,0,Sri Lanka Vs Netherlands,0,2,11,0,1,T20I   1835
+3,1,0,Dasun Shanaka,Sri Lanka,7 00,0,Sri Lanka Vs Netherlands,0,1,7,0,0,T20I   1835
+10,0,0,Ruben Trumpelmann,Namibia,5 50,0,U A E  Vs Namibia,0,4,22,0,3,T20I   1836
+12,2,1,David Wiese,Namibia,6 75,0,U A E  Vs Namibia,0,4,27,1,1,T20I   1836
+11,1,1,Bernard Scholtz,Namibia,5 50,0,U A E  Vs Namibia,0,4,22,1,0,T20I   1836
+11,2,3,JJ Smit,Namibia,9 75,0,U A E  Vs Namibia,0,4,39,0,0,T20I   1836
+3,2,1,Jan Frylinck,Namibia,10 00,0,U A E  Vs Namibia,0,3,30,0,1,T20I   1836
+1,1,0,Ben Shikongo,Namibia,8 00,0,U A E  Vs Namibia,0,1,8,1,0,T20I   1836
+10,2,0,Basil Hameed,U A E ,5 66,0,U A E  Vs Namibia,0,3,17,2,0,T20I   1836
+8,3,1,Junaid Siddique,U A E ,8 75,0,U A E  Vs Namibia,0,4,35,1,2,T20I   1836
+15,1,0,Zahoor Khan,U A E ,5 00,0,U A E  Vs Namibia,2,4,20,2,2,T20I   1836
+1,1,0,Ahmed Raza,U A E ,9 00,0,U A E  Vs Namibia,0,1,9,0,0,T20I   1836
+8,2,2,Karthik Meiyappan,U A E ,8 50,0,U A E  Vs Namibia,0,4,34,1,0,T20I   1836
+5,0,0,Aayan Afzal Khan,U A E ,3 50,0,U A E  Vs Namibia,0,2,7,0,0,T20I   1836
+3,0,1,Muhammad Waseem,U A E ,8 00,0,U A E  Vs Namibia,0,2,16,1,0,T20I   1836
+8,1,2,Josh Little,Ireland,7 75,0,West Indies Vs Ireland,0,4,31,0,1,T20I   1837
+12,1,1,Mark Adair,Ireland,6 50,0,West Indies Vs Ireland,0,4,26,0,4,T20I   1837
+9,3,1,Barry McCarthy,Ireland,8 25,0,West Indies Vs Ireland,0,4,33,1,1,T20I   1837
+2,4,1,Curtis Campher,Ireland,14 00,0,West Indies Vs Ireland,0,2,28,0,0,T20I   1837
+4,1,0,Simi Singh,Ireland,5 50,0,West Indies Vs Ireland,0,2,11,1,0,T20I   1837
+12,1,0,Gareth Delany,Ireland,4 00,0,West Indies Vs Ireland,0,4,16,3,1,T20I   1837
+11,2,2,Obed McCoy,West Indies,7 71,0,West Indies Vs Ireland,0,3 3,27,0,0,T20I   1837
+5,2,2,Akeal Hosein,West Indies,9 50,0,West Indies Vs Ireland,0,4,38,1,0,T20I   1837
+9,3,2,Alzarri Joseph,West Indies,9 75,0,West Indies Vs Ireland,0,4,39,0,1,T20I   1837
+4,3,1,Odean Smith,West Indies,11 50,0,West Indies Vs Ireland,1,2,23,0,0,T20I   1837
+7,1,0,Jason Holder,West Indies,5 75,0,West Indies Vs Ireland,0,4,23,0,0,T20I   1837
+14,1,0,Tendai Chatara,Zimbabwe,3 50,1,Scotland Vs Zimbabwe,0,4,14,2,0,T20I   1838
+12,4,0,Richard Ngarava,Zimbabwe,7 00,0,Scotland Vs Zimbabwe,1,4,28,2,1,T20I   1838
+9,5,0,Blessing Muzarabani,Zimbabwe,8 50,0,Scotland Vs Zimbabwe,2,4,34,1,0,T20I   1838
+4,1,0,Sean Williams,Zimbabwe,6 33,0,Scotland Vs Zimbabwe,0,3,19,0,0,T20I   1838
+10,0,0,Sikandar Raza,Zimbabwe,5 00,0,Scotland Vs Zimbabwe,0,4,20,1,2,T20I   1838
+1,0,0,Wessly Madhevere,Zimbabwe,7 00,0,Scotland Vs Zimbabwe,0,1,7,0,0,T20I   1838
+12,4,0,Brad Wheal,Scotland,6 50,0,Scotland Vs Zimbabwe,0,4,26,1,0,T20I   1838
+8,1,0,Josh Davey,Scotland,5 33,0,Scotland Vs Zimbabwe,1,3,16,2,0,T20I   1838
+4,3,0,Safyaan Sharif,Scotland,9 20,0,Scotland Vs Zimbabwe,1,2 3,23,0,0,T20I   1838
+9,1,0,Mark Watt,Scotland,4 75,0,Scotland Vs Zimbabwe,0,4,19,1,0,T20I   1838
+4,2,1,Michael Leask,Scotland,9 00,0,Scotland Vs Zimbabwe,0,4,36,1,0,T20I   1838
+0,0,1,Calum MacLeod,Scotland,11 00,0,Scotland Vs Zimbabwe,0,1,11,0,0,T20I   1838
+5,3,1,Mitchell Starc,Australia,9 00,0,New Zealand Vs Australia,0,4,36,0,0,T20I   1839
+8,5,1,Josh Hazlewood,Australia,10 25,0,New Zealand Vs Australia,0,4,41,2,1,T20I   1839
+8,4,2,Pat Cummins,Australia,11 50,0,New Zealand Vs Australia,0,4,46,0,2,T20I   1839
+3,1,2,Marcus Stoinis,Australia,9 50,0,New Zealand Vs Australia,0,4,38,0,1,T20I   1839
+4,2,2,Adam Zampa,Australia,9 75,0,New Zealand Vs Australia,0,4,39,1,1,T20I   1839
+13,2,1,Trent Boult,New Zealand,6 00,0,New Zealand Vs Australia,0,4,24,2,1,T20I   1839
+10,1,0,Tim Southee,New Zealand,2 76,0,New Zealand Vs Australia,0,2 1,6,3,0,T20I   1839
+10,2,2,Mitchell Santner,New Zealand,7 75,0,New Zealand Vs Australia,0,4,31,3,0,T20I   1839
+9,2,1,Lockie Ferguson,New Zealand,6 66,0,New Zealand Vs Australia,0,3,20,1,0,T20I   1839
+8,2,1,Ish Sodhi,New Zealand,7 25,0,New Zealand Vs Australia,0,4,29,1,1,T20I   1839
+14,2,0,Ben Stokes,England,4 75,0,Afghanistan Vs England,0,4,19,2,1,T20I   1840
+15,2,1,Chris Woakes,England,6 00,0,Afghanistan Vs England,0,4,24,1,1,T20I   1840
+14,2,1,Mark Wood,England,5 75,0,Afghanistan Vs England,0,4,23,2,0,T20I   1840
+16,1,0,Sam Curran,England,2 72,0,Afghanistan Vs England,0,3 4,10,5,1,T20I   1840
+4,1,1,Adil Rashid,England,8 00,0,Afghanistan Vs England,0,4,32,0,0,T20I   1840
+15,2,1,Fazalhaq Farooqi,Afghanistan,6 00,0,Afghanistan Vs England,0,4,24,1,3,T20I   1840
+2,1,0,Azmatullah Omarzai,Afghanistan,9 42,0,Afghanistan Vs England,0,1 1,11,0,3,T20I   1840
+10,1,0,Mujeeb Ur Rahman,Afghanistan,5 50,0,Afghanistan Vs England,0,4,22,1,0,T20I   1840
+10,0,0,Rashid Khan,Afghanistan,4 25,0,Afghanistan Vs England,0,4,17,1,0,T20I   1840
+2,2,0,Fareed Ahmad,Afghanistan,11 50,0,Afghanistan Vs England,0,2,23,1,1,T20I   1840
+6,0,0,Mohammad Nabi,Afghanistan,5 33,0,Afghanistan Vs England,0,3,16,1,0,T20I   1840
+10,3,0,Binura Fernando,Sri Lanka,6 75,0,Ireland Vs Sri Lanka,0,4,27,1,1,T20I   1841
+6,2,0,Lahiru Kumara,Sri Lanka,6 00,0,Ireland Vs Sri Lanka,0,2,12,1,0,T20I   1841
+8,1,0,Maheesh Theekshana,Sri Lanka,4 75,0,Ireland Vs Sri Lanka,0,4,19,2,0,T20I   1841
+7,2,1,Chamika Karunaratne,Sri Lanka,7 25,0,Ireland Vs Sri Lanka,0,4,29,1,0,T20I   1841
+6,0,1,Wanindu Hasaranga de Silva,Sri Lanka,6 25,0,Ireland Vs Sri Lanka,0,4,25,2,0,T20I   1841
+3,1,0,Dhananjaya de Silva,Sri Lanka,6 50,0,Ireland Vs Sri Lanka,0,2,13,1,0,T20I   1841
+5,4,1,Josh Little,Ireland,11 25,0,Ireland Vs Sri Lanka,0,4,45,0,1,T20I   1841
+2,1,0,Mark Adair,Ireland,8 00,0,Ireland Vs Sri Lanka,0,2,16,0,0,T20I   1841
+4,0,1,Barry McCarthy,Ireland,8 00,0,Ireland Vs Sri Lanka,0,2,16,0,0,T20I   1841
+8,3,0,Gareth Delany,Ireland,7 00,0,Ireland Vs Sri Lanka,0,4,28,1,2,T20I   1841
+2,1,0,Curtis Campher,Ireland,8 00,0,Ireland Vs Sri Lanka,0,1,8,0,0,T20I   1841
+3,0,2,Simi Singh,Ireland,10 00,0,Ireland Vs Sri Lanka,0,2,20,0,0,T20I   1841
+17,1,1,Bhuvneshwar Kumar,India,5 50,0,Pakistan Vs India,0,4,22,1,3,T20I   1842
+10,3,1,Arshdeep Singh,India,8 00,0,Pakistan Vs India,0,4,32,3,1,T20I   1842
+14,4,0,Mohammed Shami,India,6 25,0,Pakistan Vs India,0,4,25,1,1,T20I   1842
+10,4,0,Hardik Pandya,India,7 50,0,Pakistan Vs India,0,4,30,3,0,T20I   1842
+5,0,1,Ravichandran Ashwin,India,7 66,0,Pakistan Vs India,0,3,23,0,1,T20I   1842
+2,0,3,Axar Patel,India,21 00,0,Pakistan Vs India,0,1,21,0,0,T20I   1842
+7,4,0,Shaheen Shah Afridi,Pakistan,8 50,0,Pakistan Vs India,0,4,34,0,1,T20I   1842
+10,1,0,Naseem Shah,Pakistan,5 75,0,Pakistan Vs India,0,4,23,1,0,T20I   1842
+11,2,2,Haris Rauf,Pakistan,9 00,0,Pakistan Vs India,0,4,36,2,1,T20I   1842
+10,2,0,Shadab Khan,Pakistan,5 25,0,Pakistan Vs India,0,4,21,0,0,T20I   1842
+8,0,4,Mohammad Nawaz,Pakistan,10 50,0,Pakistan Vs India,1,4,42,2,2,T20I   1842
+10,5,0,Fred Klaassen,Netherlands,8 25,0,Bangladesh Vs Netherlands,0,4,33,1,3,T20I   1843
+2,0,0,Colin Ackermann,Netherlands,4 00,0,Bangladesh Vs Netherlands,0,1,4,0,0,T20I   1843
+10,1,0,Paul van Meekeren,Netherlands,5 25,0,Bangladesh Vs Netherlands,0,4,21,2,0,T20I   1843
+9,3,1,Bas de Leede,Netherlands,9 66,0,Bangladesh Vs Netherlands,0,3,29,2,3,T20I   1843
+4,0,0,Tim Pringle,Netherlands,5 00,0,Bangladesh Vs Netherlands,0,2,10,1,0,T20I   1843
+5,1,2,Shariz Ahmad,Netherlands,9 00,0,Bangladesh Vs Netherlands,0,3,27,1,0,T20I   1843
+7,0,0,Logan van Beek,Netherlands,4 00,0,Bangladesh Vs Netherlands,0,3,12,1,1,T20I   1843
+16,5,0,Taskin Ahmed,Bangladesh,6 25,0,Bangladesh Vs Netherlands,0,4,25,4,0,T20I   1843
+16,2,0,Hasan Mahmud,Bangladesh,3 75,1,Bangladesh Vs Netherlands,0,4,15,2,0,T20I   1843
+6,0,2,Shakib Al Hasan,Bangladesh,8 00,0,Bangladesh Vs Netherlands,0,4,32,1,1,T20I   1843
+14,2,0,Mustafizur Rahman,Bangladesh,5 00,0,Bangladesh Vs Netherlands,0,4,20,0,2,T20I   1843
+5,2,1,Soumya Sarkar,Bangladesh,9 66,0,Bangladesh Vs Netherlands,0,3,29,1,1,T20I   1843
+0,0,1,Mosaddek Hossain,Bangladesh,14 00,0,Bangladesh Vs Netherlands,1,1,14,0,0,T20I   1843
+4,2,1,Kagiso Rabada,South Africa,10 00,0,Zimbabwe Vs South Africa,0,2,20,0,0,T20I   1844
+9,1,0,Wayne Parnell,South Africa,3 00,0,Zimbabwe Vs South Africa,0,2,6,1,0,T20I   1844
+6,2,1,Lungi Ngidi,South Africa,10 00,0,Zimbabwe Vs South Africa,0,2,20,2,2,T20I   1844
+1,1,0,Keshav Maharaj,South Africa,10 00,0,Zimbabwe Vs South Africa,0,1,10,0,0,T20I   1844
+5,0,0,Anrich Nortje,South Africa,5 00,0,Zimbabwe Vs South Africa,0,2,10,1,0,T20I   1844
+0,4,1,Tendai Chatara,Zimbabwe,23 00,0,Zimbabwe Vs South Africa,0,1,23,0,0,T20I   1844
+2,4,0,Richard Ngarava,Zimbabwe,17 00,0,Zimbabwe Vs South Africa,1,1,17,0,0,T20I   1844
+1,0,0,Sikandar Raza,Zimbabwe,11 00,0,Zimbabwe Vs South Africa,1,1,11,0,0,T20I   1844
+13,3,0,Josh Hazlewood,Australia,6 50,0,Sri Lanka Vs Australia,0,4,26,1,3,T20I   1845
+12,5,1,Pat Cummins,Australia,9 00,0,Sri Lanka Vs Australia,0,4,36,1,2,T20I   1845
+13,1,0,Mitchell Starc,Australia,5 75,0,Sri Lanka Vs Australia,0,4,23,1,1,T20I   1845
+8,1,0,Ashton Agar,Australia,6 25,0,Sri Lanka Vs Australia,0,4,25,1,1,T20I   1845
+1,1,0,Marcus Stoinis,Australia,8 50,0,Sri Lanka Vs Australia,0,2,17,0,1,T20I   1845
+1,1,1,Mitchell Marsh,Australia,14 00,0,Sri Lanka Vs Australia,0,1,14,0,0,T20I   1845
+2,0,0,Glenn Maxwell,Australia,5 00,0,Sri Lanka Vs Australia,0,1,5,1,0,T20I   1845
+2,0,0,Binura Fernando,Sri Lanka,6 00,0,Sri Lanka Vs Australia,0,0 5,5,0,0,T20I   1845
+4,1,1,Dhananjaya de Silva,Sri Lanka,8 30,0,Sri Lanka Vs Australia,0,2 1,18,1,0,T20I   1845
+15,0,1,Lahiru Kumara,Sri Lanka,6 28,0,Sri Lanka Vs Australia,0,3 3,22,0,3,T20I   1845
+6,1,0,Chamika Karunaratne,Sri Lanka,6 66,0,Sri Lanka Vs Australia,0,3,20,1,1,T20I   1845
+11,0,3,Maheesh Theekshana,Sri Lanka,7 66,0,Sri Lanka Vs Australia,0,3,23,1,1,T20I   1845
+0,3,5,Wanindu Hasaranga de Silva,Sri Lanka,17 66,0,Sri Lanka Vs Australia,0,3,53,0,0,T20I   1845
+2,2,0,Dasun Shanaka,Sri Lanka,10 00,0,Sri Lanka Vs Australia,0,1,10,0,0,T20I   1845
+7,0,0,Ben Stokes,England,3 42,0,Ireland Vs England,0,2 2,8,1,0,T20I   1846
+4,6,1,Chris Woakes,England,13 66,0,Ireland Vs England,0,3,41,0,2,T20I   1846
+13,4,1,Mark Wood,England,8 50,0,Ireland Vs England,0,4,34,3,2,T20I   1846
+7,1,2,Sam Curran,England,10 33,0,Ireland Vs England,0,3,31,2,0,T20I   1846
+6,1,0,Adil Rashid,England,6 00,0,Ireland Vs England,0,4,24,0,0,T20I   1846
+5,1,0,Liam Livingstone,England,5 66,0,Ireland Vs England,0,3,17,3,0,T20I   1846
+11,2,0,Josh Little,Ireland,5 33,0,Ireland Vs England,0,3,16,2,2,T20I   1846
+5,0,0,Mark Adair,Ireland,5 00,0,Ireland Vs England,0,2,10,0,0,T20I   1846
+7,1,0,Barry McCarthy,Ireland,6 66,0,Ireland Vs England,0,3,20,1,3,T20I   1846
+6,1,0,Fionn Hand,Ireland,8 50,0,Ireland Vs England,0,2,17,1,4,T20I   1846
+5,3,1,Gareth Delany,Ireland,9 42,0,Ireland Vs England,0,3 3,33,0,1,T20I   1846
+2,0,0,George Dockrell,Ireland,5 00,0,Ireland Vs England,0,1,5,1,0,T20I   1846
+7,6,2,Taskin Ahmed,Bangladesh,15 33,0,South Africa Vs Bangladesh,3,3,46,1,0,T20I   1847
+4,2,2,Mehidy Hasan Miraz,Bangladesh,10 66,0,South Africa Vs Bangladesh,0,3,32,0,0,T20I   1847
+11,3,2,Hasan Mahmud,Bangladesh,9 00,0,South Africa Vs Bangladesh,0,4,36,1,2,T20I   1847
+7,1,1,Mustafizur Rahman,Bangladesh,6 25,0,South Africa Vs Bangladesh,0,4,25,0,0,T20I   1847
+5,1,1,Mosaddek Hossain,Bangladesh,8 00,0,South Africa Vs Bangladesh,0,2,16,0,0,T20I   1847
+7,1,3,Shakib Al Hasan,Bangladesh,11 00,0,South Africa Vs Bangladesh,1,3,33,2,0,T20I   1847
+1,2,0,Afif Hossain,Bangladesh,11 00,0,South Africa Vs Bangladesh,0,1,11,1,0,T20I   1847
+8,1,2,Kagiso Rabada,South Africa,8 00,0,South Africa Vs Bangladesh,0,3,24,1,1,T20I   1847
+3,0,1,Wayne Parnell,South Africa,9 00,0,South Africa Vs Bangladesh,0,2,18,0,1,T20I   1847
+16,1,0,Anrich Nortje,South Africa,2 85,0,South Africa Vs Bangladesh,0,3 3,10,4,0,T20I   1847
+6,1,0,Keshav Maharaj,South Africa,6 00,0,South Africa Vs Bangladesh,0,4,24,1,0,T20I   1847
+12,0,1,Tabraiz Shamsi,South Africa,5 00,0,South Africa Vs Bangladesh,0,4,20,3,2,T20I   1847
+9,2,1,Fred Klaassen,Netherlands,8 25,0,India Vs Netherlands,0,4,33,1,2,T20I   1848
+6,3,0,Tim Pringle,Netherlands,7 50,0,India Vs Netherlands,0,4,30,0,0,T20I   1848
+9,3,1,Paul van Meekeren,Netherlands,8 00,0,India Vs Netherlands,0,4,32,1,0,T20I   1848
+6,5,1,Bas de Leede,Netherlands,11 00,0,India Vs Netherlands,0,3,33,0,1,T20I   1848
+3,2,3,Logan van Beek,Netherlands,11 25,0,India Vs Netherlands,0,4,45,0,0,T20I   1848
+2,0,0,Shariz Ahmad,Netherlands,5 00,0,India Vs Netherlands,0,1,5,0,0,T20I   1848
+14,1,0,Bhuvneshwar Kumar,India,3 00,2,India Vs Netherlands,0,3,9,2,0,T20I   1848
+9,6,0,Arshdeep Singh,India,9 25,0,India Vs Netherlands,1,4,37,2,1,T20I   1848
+10,2,0,Mohammed Shami,India,6 75,0,India Vs Netherlands,0,4,27,1,0,T20I   1848
+11,0,0,Axar Patel,India,4 50,0,India Vs Netherlands,0,4,18,2,0,T20I   1848
+1,0,0,Hardik Pandya,India,9 00,0,India Vs Netherlands,0,1,9,0,1,T20I   1848
+13,1,1,Ravichandran Ashwin,India,5 25,0,India Vs Netherlands,0,4,21,2,1,T20I   1848
+9,3,0,Shaheen Shah Afridi,Pakistan,7 25,0,Zimbabwe Vs Pakistan,0,4,29,0,0,T20I   1849
+7,4,0,Naseem Shah,Pakistan,8 50,0,Zimbabwe Vs Pakistan,0,4,34,0,2,T20I   1849
+16,2,1,Mohammad Wasim,Pakistan,6 00,0,Zimbabwe Vs Pakistan,0,4,24,4,4,T20I   1849
+15,0,0,Haris Rauf,Pakistan,3 00,1,Zimbabwe Vs Pakistan,0,4,12,1,0,T20I   1849
+8,1,0,Shadab Khan,Pakistan,5 75,0,Zimbabwe Vs Pakistan,0,4,23,3,0,T20I   1849
+15,2,1,Richard Ngarava,Zimbabwe,6 00,0,Zimbabwe Vs Pakistan,0,4,24,0,2,T20I   1849
+11,1,0,Blessing Muzarabani,Zimbabwe,4 50,0,Zimbabwe Vs Pakistan,0,4,18,1,0,T20I   1849
+12,2,1,Brad Evans,Zimbabwe,6 25,0,Zimbabwe Vs Pakistan,0,4,25,2,0,T20I   1849
+13,2,1,Sikandar Raza,Zimbabwe,6 25,0,Zimbabwe Vs Pakistan,0,4,25,3,2,T20I   1849
+2,2,0,Luke Jongwe,Zimbabwe,10 00,0,Zimbabwe Vs Pakistan,0,1,10,1,0,T20I   1849
+1,0,0,Sean Williams,Zimbabwe,7 50,0,Zimbabwe Vs Pakistan,0,2,15,0,1,T20I   1849
+0,0,0,Ryan Burl,Zimbabwe,7 00,0,Zimbabwe Vs Pakistan,0,1,7,0,0,T20I   1849
+7,2,2,Maheesh Theekshana,Sri Lanka,8 75,0,New Zealand Vs Sri Lanka,0,4,35,1,1,T20I   1850
+16,3,0,Kasun Rajitha,Sri Lanka,5 75,0,New Zealand Vs Sri Lanka,2,4,23,2,1,T20I   1850
+4,1,0,Dhananjaya de Silva,Sri Lanka,7 00,0,New Zealand Vs Sri Lanka,0,2,14,1,0,T20I   1850
+9,1,0,Wanindu Hasaranga de Silva,Sri Lanka,5 50,0,New Zealand Vs Sri Lanka,0,4,22,1,0,T20I   1850
+2,2,2,Lahiru Kumara,Sri Lanka,12 33,0,New Zealand Vs Sri Lanka,1,3,37,1,2,T20I   1850
+5,3,1,Chamika Karunaratne,Sri Lanka,11 33,0,New Zealand Vs Sri Lanka,0,3,34,0,1,T20I   1850
+18,0,1,Tim Southee,New Zealand,3 00,1,New Zealand Vs Sri Lanka,0,4,12,1,1,T20I   1850
+18,1,0,Trent Boult,New Zealand,3 25,0,New Zealand Vs Sri Lanka,0,4,13,4,1,T20I   1850
+11,4,1,Lockie Ferguson,New Zealand,8 75,0,New Zealand Vs Sri Lanka,0,4,35,1,3,T20I   1850
+13,3,0,Mitchell Santner,New Zealand,5 25,0,New Zealand Vs Sri Lanka,0,4,21,2,0,T20I   1850
+11,2,1,Ish Sodhi,New Zealand,6 30,0,New Zealand Vs Sri Lanka,0,3 2,21,2,1,T20I   1850
+11,2,0,Richard Ngarava,Zimbabwe,6 00,0,Bangladesh Vs Zimbabwe,0,4,24,2,2,T20I   1851
+8,3,0,Blessing Muzarabani,Zimbabwe,6 50,0,Bangladesh Vs Zimbabwe,0,2,13,2,0,T20I   1851
+7,1,0,Tendai Chatara,Zimbabwe,6 00,0,Bangladesh Vs Zimbabwe,0,3,18,0,0,T20I   1851
+2,2,1,Sikandar Raza,Zimbabwe,8 75,0,Bangladesh Vs Zimbabwe,0,4,35,1,0,T20I   1851
+2,3,1,Brad Evans,Zimbabwe,10 66,0,Bangladesh Vs Zimbabwe,0,3,32,0,1,T20I   1851
+0,1,0,Wessly Madhevere,Zimbabwe,9 00,0,Bangladesh Vs Zimbabwe,0,2,18,0,0,T20I   1851
+4,0,0,Sean Williams,Zimbabwe,5 00,0,Bangladesh Vs Zimbabwe,0,2,10,1,1,T20I   1851
+15,3,0,Taskin Ahmed,Bangladesh,4 75,1,Bangladesh Vs Zimbabwe,0,4,19,3,0,T20I   1851
+8,5,0,Hasan Mahmud,Bangladesh,9 00,0,Bangladesh Vs Zimbabwe,0,4,36,0,3,T20I   1851
+11,3,2,Mosaddek Hossain,Bangladesh,8 50,0,Bangladesh Vs Zimbabwe,1,4,34,2,0,T20I   1851
+11,0,0,Mustafizur Rahman,Bangladesh,3 75,0,Bangladesh Vs Zimbabwe,0,4,15,2,0,T20I   1851
+5,3,0,Shakib Al Hasan,Bangladesh,8 50,0,Bangladesh Vs Zimbabwe,0,4,34,0,0,T20I   1851
+13,1,0,Shaheen Shah Afridi,Pakistan,4 75,0,Netherlands Vs Pakistan,0,4,19,1,1,T20I   1852
+15,0,0,Naseem Shah,Pakistan,2 75,0,Netherlands Vs Pakistan,0,4,11,1,0,T20I   1852
+10,1,0,Mohammad Wasim,Pakistan,5 00,0,Netherlands Vs Pakistan,0,3,15,2,1,T20I   1852
+11,1,0,Haris Rauf,Pakistan,3 33,0,Netherlands Vs Pakistan,0,3,10,1,0,T20I   1852
+11,2,0,Shadab Khan,Pakistan,5 50,0,Netherlands Vs Pakistan,0,4,22,3,0,T20I   1852
+3,0,0,Mohammad Nawaz,Pakistan,5 50,0,Netherlands Vs Pakistan,0,2,11,0,0,T20I   1852
+4,3,0,Fred Klaassen,Netherlands,8 66,0,Netherlands Vs Pakistan,0,3,26,0,0,T20I   1852
+15,2,0,Paul van Meekeren,Netherlands,4 75,0,Netherlands Vs Pakistan,0,4,19,1,0,T20I   1852
+9,3,0,Brandon Glover,Netherlands,7 76,0,Netherlands Vs Pakistan,0,2 5,22,2,0,T20I   1852
+1,2,0,Tim Pringle,Netherlands,12 00,0,Netherlands Vs Pakistan,0,1,12,0,0,T20I   1852
+5,0,0,Logan van Beek,Netherlands,4 50,0,Netherlands Vs Pakistan,0,2,9,0,0,T20I   1852
+1,0,0,Roelof van der Merwe,Netherlands,7 00,0,Netherlands Vs Pakistan,0,1,7,0,0,T20I   1852
+16,0,1,Wayne Parnell,South Africa,3 75,1,India Vs South Africa,0,4,15,3,0,T20I   1853
+13,2,1,Kagiso Rabada,South Africa,6 50,0,India Vs South Africa,0,4,26,0,1,T20I   1853
+10,3,1,Lungi Ngidi,South Africa,7 25,0,India Vs South Africa,0,4,29,4,0,T20I   1853
+12,1,1,Anrich Nortje,South Africa,5 75,0,India Vs South Africa,0,4,23,1,0,T20I   1853
+5,3,1,Keshav Maharaj,South Africa,9 33,0,India Vs South Africa,0,3,28,0,0,T20I   1853
+1,0,0,Aiden Markram,South Africa,5 00,0,India Vs South Africa,0,1,5,0,0,T20I   1853
+13,2,1,Bhuvneshwar Kumar,India,5 72,0,India Vs South Africa,0,3 4,21,0,0,T20I   1853
+13,4,0,Arshdeep Singh,India,6 25,0,India Vs South Africa,0,4,25,2,1,T20I   1853
+15,1,0,Mohammed Shami,India,3 25,0,India Vs South Africa,0,4,13,1,0,T20I   1853
+8,3,0,Hardik Pandya,India,7 25,0,India Vs South Africa,0,4,29,1,0,T20I   1853
+5,1,4,Ravichandran Ashwin,India,10 75,0,India Vs South Africa,0,4,43,1,0,T20I   1853
+13,2,0,Josh Little,Ireland,5 25,0,Australia Vs Ireland,0,4,21,2,2,T20I   1855
+6,7,2,Mark Adair,Ireland,14 75,0,Australia Vs Ireland,0,4,59,0,6,T20I   1855
+7,2,0,Barry McCarthy,Ireland,7 25,0,Australia Vs Ireland,0,4,29,3,1,T20I   1855
+10,2,2,Gareth Delany,Ireland,9 66,0,Australia Vs Ireland,0,3,29,0,2,T20I   1855
+2,0,2,Fionn Hand,Ireland,15 00,0,Australia Vs Ireland,0,1,15,0,1,T20I   1855
+8,0,1,George Dockrell,Ireland,6 00,0,Australia Vs Ireland,0,4,24,0,0,T20I   1855
+8,1,2,Josh Hazlewood,Australia,8 00,0,Australia Vs Ireland,0,3,24,0,1,T20I   1855
+14,3,1,Pat Cummins,Australia,7 00,0,Australia Vs Ireland,0,4,28,2,1,T20I   1855
+6,2,0,Glenn Maxwell,Australia,6 46,0,Australia Vs Ireland,0,2 1,14,2,0,T20I   1855
+11,8,0,Mitchell Starc,Australia,10 75,1,Australia Vs Ireland,1,4,43,2,2,T20I   1855
+9,1,0,Adam Zampa,Australia,4 75,0,Australia Vs Ireland,0,4,19,2,0,T20I   1855
+2,0,0,Marcus Stoinis,Australia,6 00,0,Australia Vs Ireland,0,1,6,1,0,T20I   1855
+11,2,1,Kasun Rajitha,Sri Lanka,7 75,0,Afghanistan Vs Sri Lanka,1,4,31,1,1,T20I   1856
+7,2,1,Pramod Madushan,Sri Lanka,8 00,0,Afghanistan Vs Sri Lanka,0,3,24,0,0,T20I   1856
+12,2,1,Lahiru Kumara,Sri Lanka,7 50,0,Afghanistan Vs Sri Lanka,0,4,30,2,4,T20I   1856
+5,1,1,Maheesh Theekshana,Sri Lanka,8 25,0,Afghanistan Vs Sri Lanka,0,4,33,0,1,T20I   1856
+12,0,0,Wanindu Hasaranga de Silva,Sri Lanka,3 25,0,Afghanistan Vs Sri Lanka,0,4,13,3,0,T20I   1856
+1,1,0,Dhananjaya de Silva,Sri Lanka,9 00,0,Afghanistan Vs Sri Lanka,0,1,9,1,0,T20I   1856
+11,3,0,Fazalhaq Farooqi,Afghanistan,6 28,1,Afghanistan Vs Sri Lanka,0,3 3,22,0,1,T20I   1856
+12,3,0,Mujeeb Ur Rahman,Afghanistan,6 00,0,Afghanistan Vs Sri Lanka,0,4,24,2,0,T20I   1856
+3,3,1,Fareed Ahmad,Afghanistan,12 50,0,Afghanistan Vs Sri Lanka,0,2,25,0,1,T20I   1856
+10,2,1,Rashid Khan,Afghanistan,7 75,0,Afghanistan Vs Sri Lanka,0,4,31,2,1,T20I   1856
+2,1,0,Azmatullah Omarzai,Afghanistan,8 50,0,Afghanistan Vs Sri Lanka,0,2,17,0,1,T20I   1856
+2,0,1,Mohammad Nabi,Afghanistan,8 00,0,Afghanistan Vs Sri Lanka,0,2,16,0,0,T20I   1856
+1,2,0,Gulbadin Naib,Afghanistan,12 00,0,Afghanistan Vs Sri Lanka,0,1,12,0,0,T20I   1856
+8,4,1,Trent Boult,New Zealand,10 00,0,England Vs New Zealand,0,4,40,0,1,T20I   1858
+9,3,3,Tim Southee,New Zealand,10 75,0,England Vs New Zealand,0,4,43,1,0,T20I   1858
+8,2,0,Mitchell Santner,New Zealand,6 25,0,England Vs New Zealand,0,4,25,1,0,T20I   1858
+6,4,2,Lockie Ferguson,New Zealand,11 25,0,England Vs New Zealand,1,4,45,2,0,T20I   1858
+10,2,0,Ish Sodhi,New Zealand,5 75,0,England Vs New Zealand,0,4,23,1,0,T20I   1858
+3,0,0,Moeen Ali,England,4 00,0,England Vs New Zealand,0,1,4,0,0,T20I   1858
+9,1,2,Chris Woakes,England,8 25,0,England Vs New Zealand,0,4,33,2,1,T20I   1858
+6,0,2,Adil Rashid,England,8 25,0,England Vs New Zealand,0,4,33,0,0,T20I   1858
+9,0,0,Sam Curran,England,6 50,0,England Vs New Zealand,0,4,26,2,2,T20I   1858
+8,2,1,Mark Wood,England,8 33,0,England Vs New Zealand,0,3,25,1,1,T20I   1858
+4,3,0,Liam Livingstone,England,8 66,0,England Vs New Zealand,0,3,26,0,0,T20I   1858
+2,2,0,Ben Stokes,England,10 00,0,England Vs New Zealand,0,1,10,1,0,T20I   1858
+17,0,1,Fred Klaassen,Netherlands,4 25,0,Zimbabwe Vs Netherlands,0,4,17,1,2,T20I   1859
+13,3,0,Paul van Meekeren,Netherlands,7 25,0,Zimbabwe Vs Netherlands,0,4,29,3,2,T20I   1859
+15,2,2,Brandon Glover,Netherlands,7 25,1,Zimbabwe Vs Netherlands,0,4,29,2,2,T20I   1859
+8,1,1,Logan van Beek,Netherlands,7 28,0,Zimbabwe Vs Netherlands,0,2 2,17,2,1,T20I   1859
+11,0,0,Bas de Leede,Netherlands,3 50,0,Zimbabwe Vs Netherlands,0,4,14,2,0,T20I   1859
+2,1,0,Roelof van der Merwe,Netherlands,8 00,0,Zimbabwe Vs Netherlands,0,1,8,0,0,T20I   1859
+14,4,0,Tendai Chatara,Zimbabwe,5 50,0,Zimbabwe Vs Netherlands,0,4,22,0,0,T20I   1859
+15,1,1,Richard Ngarava,Zimbabwe,4 50,0,Zimbabwe Vs Netherlands,0,4,18,2,0,T20I   1859
+14,2,1,Blessing Muzarabani,Zimbabwe,5 75,0,Zimbabwe Vs Netherlands,0,4,23,2,1,T20I   1859
+8,2,1,Sean Williams,Zimbabwe,7 00,0,Zimbabwe Vs Netherlands,0,3,21,0,0,T20I   1859
+0,0,0,Sikandar Raza,Zimbabwe,6 00,0,Zimbabwe Vs Netherlands,0,1,6,0,0,T20I   1859
+3,4,0,Luke Jongwe,Zimbabwe,12 50,0,Zimbabwe Vs Netherlands,1,2,25,1,3,T20I   1859
+16,2,0,Taskin Ahmed,Bangladesh,3 75,0,India Vs Bangladesh,0,4,15,0,0,T20I   1860
+7,4,4,Shoriful Islam,Bangladesh,14 25,0,India Vs Bangladesh,2,4,57,0,2,T20I   1860
+7,6,2,Hasan Mahmud,Bangladesh,11 75,0,India Vs Bangladesh,1,4,47,3,0,T20I   1860
+9,4,0,Mustafizur Rahman,Bangladesh,7 75,0,India Vs Bangladesh,0,4,31,0,0,T20I   1860
+3,2,0,Shakib Al Hasan,Bangladesh,8 25,0,India Vs Bangladesh,0,4,33,2,0,T20I   1860
+7,2,2,Bhuvneshwar Kumar,India,9 00,0,India Vs Bangladesh,0,3,27,0,0,T20I   1860
+10,5,1,Arshdeep Singh,India,9 50,0,India Vs Bangladesh,0,4,38,2,0,T20I   1860
+7,2,1,Mohammed Shami,India,8 33,0,India Vs Bangladesh,0,3,25,1,0,T20I   1860
+2,0,0,Axar Patel,India,6 00,0,India Vs Bangladesh,0,1,6,0,0,T20I   1860
+4,3,0,Ravichandran Ashwin,India,9 50,0,India Vs Bangladesh,0,2,19,0,1,T20I   1860
+8,1,3,Hardik Pandya,India,9 33,0,India Vs Bangladesh,0,3,28,2,0,T20I   1860
+10,3,1,Wayne Parnell,South Africa,7 75,0,Pakistan Vs South Africa,0,4,31,1,0,T20I   1861
+7,4,2,Kagiso Rabada,South Africa,11 00,0,Pakistan Vs South Africa,0,4,44,1,0,T20I   1861
+11,3,1,Lungi Ngidi,South Africa,8 00,0,Pakistan Vs South Africa,0,4,32,1,2,T20I   1861
+11,1,4,Anrich Nortje,South Africa,10 25,0,Pakistan Vs South Africa,1,4,41,4,0,T20I   1861
+8,2,2,Tabraiz Shamsi,South Africa,9 00,0,Pakistan Vs South Africa,0,4,36,1,2,T20I   1861
+11,2,0,Shaheen Shah Afridi,Pakistan,4 66,0,Pakistan Vs South Africa,0,3,14,3,0,T20I   1861
+10,1,1,Naseem Shah,Pakistan,6 33,0,Pakistan Vs South Africa,0,3,19,1,1,T20I   1861
+2,7,1,Haris Rauf,Pakistan,14 66,0,Pakistan Vs South Africa,0,3,44,1,1,T20I   1861
+3,1,0,Mohammad Wasim,Pakistan,6 50,0,Pakistan Vs South Africa,0,2,13,1,0,T20I   1861
+5,1,1,Shadab Khan,Pakistan,8 00,0,Pakistan Vs South Africa,0,2,16,2,0,T20I   1861
+4,0,0,Mohammad Nawaz,Pakistan,2 00,0,Pakistan Vs South Africa,0,1,2,0,0,T20I   1861
+10,2,0,Josh Little,Ireland,5 50,0,New Zealand Vs Ireland,0,4,22,3,1,T20I   1862
+9,3,1,Mark Adair,Ireland,9 75,0,New Zealand Vs Ireland,0,4,39,1,3,T20I   1862
+4,4,2,Barry McCarthy,Ireland,11 50,0,New Zealand Vs Ireland,0,4,46,0,0,T20I   1862
+11,3,1,Gareth Delany,Ireland,7 50,0,New Zealand Vs Ireland,0,4,30,2,1,T20I   1862
+2,2,1,Fionn Hand,Ireland,11 00,0,New Zealand Vs Ireland,0,2,22,0,0,T20I   1862
+4,2,0,George Dockrell,Ireland,9 00,0,New Zealand Vs Ireland,0,2,18,0,2,T20I   1862
+8,4,1,Trent Boult,New Zealand,9 50,0,New Zealand Vs Ireland,0,4,38,0,0,T20I   1862
+8,2,1,Tim Southee,New Zealand,7 25,0,New Zealand Vs Ireland,0,4,29,2,0,T20I   1862
+10,1,0,Lockie Ferguson,New Zealand,5 50,0,New Zealand Vs Ireland,0,4,22,3,0,T20I   1862
+12,3,1,Mitchell Santner,New Zealand,6 50,0,New Zealand Vs Ireland,0,4,26,2,0,T20I   1862
+10,0,2,Ish Sodhi,New Zealand,7 75,0,New Zealand Vs Ireland,0,4,31,2,1,T20I   1862
+13,4,1,Fazalhaq Farooqi,Afghanistan,7 25,0,Australia Vs Afghanistan,0,4,29,2,0,T20I   1864
+5,4,1,Mujeeb Ur Rahman,Afghanistan,10 50,0,Australia Vs Afghanistan,0,4,42,1,1,T20I   1864
+11,2,0,Naveen ul Haq,Afghanistan,5 25,0,Australia Vs Afghanistan,0,4,21,3,0,T20I   1864
+6,3,2,Gulbadin Naib,Afghanistan,10 33,0,Australia Vs Afghanistan,0,3,31,0,0,T20I   1864
+9,2,1,Rashid Khan,Afghanistan,7 25,0,Australia Vs Afghanistan,0,4,29,1,1,T20I   1864
+1,1,1,Mohammad Nabi,Afghanistan,14 00,0,Australia Vs Afghanistan,0,1,14,0,0,T20I   1864
+13,2,3,Josh Hazlewood,Australia,8 25,0,Australia Vs Afghanistan,0,4,33,2,0,T20I   1864
+12,2,0,Pat Cummins,Australia,5 50,0,Australia Vs Afghanistan,0,4,22,0,0,T20I   1864
+2,2,1,Marcus Stoinis,Australia,13 00,0,Australia Vs Afghanistan,0,2,26,0,2,T20I   1864
+4,3,3,Kane Richardson,Australia,12 00,0,Australia Vs Afghanistan,0,4,48,1,1,T20I   1864
+11,1,0,Adam Zampa,Australia,5 50,0,Australia Vs Afghanistan,0,4,22,2,0,T20I   1864
+7,1,1,Cameron Green,Australia,6 50,0,Australia Vs Afghanistan,0,2,13,0,0,T20I   1864
+8,1,2,Ben Stokes,England,8 00,0,Sri Lanka Vs England,0,3,24,1,0,T20I   1867
+5,3,0,Chris Woakes,England,8 00,0,Sri Lanka Vs England,0,3,24,1,1,T20I   1867
+8,1,2,Mark Wood,England,8 66,0,Sri Lanka Vs England,0,3,26,3,1,T20I   1867
+10,2,1,Sam Curran,England,6 75,0,Sri Lanka Vs England,0,4,27,1,0,T20I   1867
+11,0,0,Adil Rashid,England,4 00,0,Sri Lanka Vs England,0,4,16,1,0,T20I   1867
+2,0,1,Liam Livingstone,England,8 00,0,Sri Lanka Vs England,0,2,16,0,0,T20I   1867
+1,0,0,Moeen Ali,England,5 00,0,Sri Lanka Vs England,0,1,5,0,0,T20I   1867
+11,1,0,Maheesh Theekshana,Sri Lanka,5 50,0,Sri Lanka Vs England,0,4,22,0,1,T20I   1867
+4,5,1,Kasun Rajitha,Sri Lanka,13 33,0,Sri Lanka Vs England,0,3,40,0,2,T20I   1867
+11,3,0,Lahiru Kumara,Sri Lanka,6 54,0,Sri Lanka Vs England,1,3 4,24,2,0,T20I   1867
+11,1,1,Wanindu Hasaranga de Silva,Sri Lanka,5 75,0,Sri Lanka Vs England,0,4,23,2,0,T20I   1867
+7,1,0,Dhananjaya de Silva,Sri Lanka,6 00,0,Sri Lanka Vs England,0,4,24,2,0,T20I   1867
+1,1,0,Charith Asalanka,Sri Lanka,8 00,0,Sri Lanka Vs England,0,1,8,0,0,T20I   1867
+10,2,2,Wayne Parnell,South Africa,8 00,0,Netherlands Vs South Africa,0,4,32,0,1,T20I   1871
+6,7,0,Kagiso Rabada,South Africa,12 33,0,Netherlands Vs South Africa,0,3,37,0,0,T20I   1871
+3,5,0,Lungi Ngidi,South Africa,11 66,0,Netherlands Vs South Africa,0,3,35,0,0,T20I   1871
+14,0,0,Anrich Nortje,South Africa,2 50,0,Netherlands Vs South Africa,0,4,10,1,0,T20I   1871
+12,1,2,Keshav Maharaj,South Africa,6 75,0,Netherlands Vs South Africa,0,4,27,2,0,T20I   1871
+3,0,1,Aiden Markram,South Africa,8 00,0,Netherlands Vs South Africa,0,2,16,1,1,T20I   1871
+15,3,0,Fred Klaassen,Netherlands,5 00,0,Netherlands Vs South Africa,0,4,20,2,0,T20I   1871
+5,1,2,Paul van Meekeren,Netherlands,11 00,0,Netherlands Vs South Africa,1,3,33,1,1,T20I   1871
+6,1,0,Colin Ackermann,Netherlands,5 33,0,Netherlands Vs South Africa,0,3,16,0,0,T20I   1871
+2,2,0,Roelof van der Merwe,Netherlands,9 50,0,Netherlands Vs South Africa,0,2,19,0,0,T20I   1871
+5,0,0,Brandon Glover,Netherlands,4 50,0,Netherlands Vs South Africa,0,2,9,3,1,T20I   1871
+4,1,1,Logan van Beek,Netherlands,7 66,0,Netherlands Vs South Africa,0,3,23,0,0,T20I   1871
+4,1,0,Bas de Leede,Netherlands,8 33,0,Netherlands Vs South Africa,2,3,25,2,1,T20I   1871
+13,2,1,Shaheen Shah Afridi,Pakistan,5 50,0,Bangladesh Vs Pakistan,0,4,22,4,0,T20I   1872
+9,2,0,Naseem Shah,Pakistan,5 00,0,Bangladesh Vs Pakistan,0,3,15,0,0,T20I   1872
+5,1,1,Mohammad Wasim,Pakistan,9 50,0,Bangladesh Vs Pakistan,0,2,19,0,1,T20I   1872
+11,2,0,Haris Rauf,Pakistan,5 25,0,Bangladesh Vs Pakistan,0,4,21,1,0,T20I   1872
+8,3,0,Shadab Khan,Pakistan,7 50,0,Bangladesh Vs Pakistan,0,4,30,2,0,T20I   1872
+9,2,0,Iftikhar Ahmed,Pakistan,5 00,0,Bangladesh Vs Pakistan,0,3,15,1,0,T20I   1872
+10,1,2,Taskin Ahmed,Bangladesh,8 66,0,Bangladesh Vs Pakistan,1,3,26,0,0,T20I   1872
+13,0,0,Nasum Ahmed,Bangladesh,3 50,0,Bangladesh Vs Pakistan,0,4,14,1,2,T20I   1872
+6,5,0,Shakib Al Hasan,Bangladesh,8 75,0,Bangladesh Vs Pakistan,0,4,35,1,0,T20I   1872
+8,0,0,Mustafizur Rahman,Bangladesh,5 25,0,Bangladesh Vs Pakistan,0,4,21,1,0,T20I   1872
+7,1,1,Ebadot Hossain,Bangladesh,7 89,0,Bangladesh Vs Pakistan,1,3 1,25,1,0,T20I   1872
+12,2,4,Richard Ngarava,Zimbabwe,11 00,1,India Vs Zimbabwe,1,4,44,1,1,T20I   1873
+5,3,1,Tendai Chatara,Zimbabwe,8 50,0,India Vs Zimbabwe,0,4,34,0,0,T20I   1873
+5,8,0,Blessing Muzarabani,Zimbabwe,12 50,0,India Vs Zimbabwe,0,4,50,1,1,T20I   1873
+5,1,0,Wellington Masakadza,Zimbabwe,6 00,0,India Vs Zimbabwe,0,2,12,0,1,T20I   1873
+1,1,1,Ryan Burl,Zimbabwe,14 00,0,India Vs Zimbabwe,0,1,14,0,0,T20I   1873
+5,0,1,Sikandar Raza,Zimbabwe,6 00,0,India Vs Zimbabwe,0,3,18,1,0,T20I   1873
+6,0,0,Sean Williams,Zimbabwe,4 50,0,India Vs Zimbabwe,0,2,9,2,2,T20I   1873
+14,1,0,Bhuvneshwar Kumar,India,3 66,1,India Vs Zimbabwe,0,3,11,1,1,T20I   1873
+9,1,0,Arshdeep Singh,India,4 50,0,India Vs Zimbabwe,0,2,9,1,2,T20I   1873
+7,1,1,Mohammed Shami,India,7 00,0,India Vs Zimbabwe,0,2,14,2,0,T20I   1873
+10,1,0,Hardik Pandya,India,5 33,0,India Vs Zimbabwe,1,3,16,2,2,T20I   1873
+13,3,0,Ravichandran Ashwin,India,5 50,0,India Vs Zimbabwe,0,4,22,3,1,T20I   1873
+4,5,1,Axar Patel,India,12 00,0,India Vs Zimbabwe,0,3 2,40,1,0,T20I   1873
+11,2,0,Shaheen Shah Afridi,Pakistan,6 00,0,New Zealand Vs Pakistan,0,4,24,2,0,T20I   1877
+8,3,0,Naseem Shah,Pakistan,7 50,0,New Zealand Vs Pakistan,0,4,30,0,0,T20I   1877
+6,2,0,Haris Rauf,Pakistan,8 00,0,New Zealand Vs Pakistan,0,4,32,0,0,T20I   1877
+3,0,1,Mohammad Wasim,Pakistan,7 50,0,New Zealand Vs Pakistan,0,2,15,0,0,T20I   1877
+7,3,1,Shadab Khan,Pakistan,8 25,0,New Zealand Vs Pakistan,0,4,33,0,0,T20I   1877
+2,0,0,Mohammad Nawaz,Pakistan,6 00,0,New Zealand Vs Pakistan,0,2,12,1,0,T20I   1877
+9,5,0,Trent Boult,New Zealand,8 25,0,New Zealand Vs Pakistan,0,4,33,2,0,T20I   1877
+7,3,0,Tim Southee,New Zealand,7 57,0,New Zealand Vs Pakistan,0,3 1,24,0,2,T20I   1877
+7,4,1,Lockie Ferguson,New Zealand,9 25,0,New Zealand Vs Pakistan,0,4,37,0,1,T20I   1877
+6,1,0,Mitchell Santner,New Zealand,6 50,0,New Zealand Vs Pakistan,0,4,26,1,0,T20I   1877
+4,1,0,Ish Sodhi,New Zealand,6 50,0,New Zealand Vs Pakistan,0,4,26,0,0,T20I   1877
+5,2,1,Ben Stokes,England,9 00,0,India Vs England,0,2,18,0,0,T20I   1878
+5,1,1,Chris Woakes,England,8 00,0,India Vs England,0,3,24,1,2,T20I   1878
+9,5,2,Sam Curran,England,10 50,0,India Vs England,0,4,42,0,0,T20I   1878
+8,1,0,Adil Rashid,England,5 00,0,India Vs England,0,4,20,1,0,T20I   1878
+7,3,0,Liam Livingstone,England,7 00,0,India Vs England,0,3,21,0,0,T20I   1878
+8,3,3,Chris Jordan,England,10 75,0,India Vs England,0,4,43,3,1,T20I   1878
+4,3,1,Bhuvneshwar Kumar,India,12 50,0,India Vs England,0,2,25,0,1,T20I   1878
+4,2,0,Arshdeep Singh,India,7 50,0,India Vs England,0,2,15,0,1,T20I   1878
+10,2,2,Axar Patel,India,7 50,0,India Vs England,0,4,30,0,0,T20I   1878
+7,4,3,Mohammed Shami,India,13 00,0,India Vs England,0,3,39,0,0,T20I   1878
+1,1,2,Ravichandran Ashwin,India,13 50,0,India Vs England,0,2,27,0,1,T20I   1878
+5,1,2,Hardik Pandya,India,11 33,0,India Vs England,0,3,34,0,0,T20I   1878
+6,1,0,Ben Stokes,England,8 00,0,Pakistan Vs England,1,4,32,1,2,T20I   1879
+7,2,1,Chris Woakes,England,8 66,0,Pakistan Vs England,0,3,26,0,2,T20I   1879
+15,0,0,Sam Curran,England,3 00,0,Pakistan Vs England,0,4,12,3,0,T20I   1879
+10,1,0,Adil Rashid,England,5 50,1,Pakistan Vs England,0,4,22,2,1,T20I   1879
+9,3,0,Chris Jordan,England,6 75,0,Pakistan Vs England,0,4,27,2,0,T20I   1879
+1,1,1,Liam Livingstone,England,16 00,0,Pakistan Vs England,0,1,16,0,1,T20I   1879
+6,1,0,Shaheen Shah Afridi,Pakistan,6 00,0,Pakistan Vs England,0,2 1,13,1,0,T20I   1879
+15,3,1,Naseem Shah,Pakistan,7 50,0,Pakistan Vs England,0,4,30,0,1,T20I   1879
+13,3,0,Haris Rauf,Pakistan,5 75,0,Pakistan Vs England,0,4,23,2,1,T20I   1879
+10,1,0,Shadab Khan,Pakistan,5 00,0,Pakistan Vs England,0,4,20,1,0,T20I   1879
+5,5,0,Mohammad Wasim,Pakistan,9 50,0,Pakistan Vs England,0,4,38,1,2,T20I   1879
+0,1,1,Iftikhar Ahmed,Pakistan,15 60,0,Pakistan Vs England,0,0 5,13,0,0,T20I   1879
